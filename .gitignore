@@ -8,3 +8,10 @@ ucb.py
 parsons/
 __init__.py
 construct_check.py
+
+projs/hog/calc.py
+projs/hog/default_graphics.py
+projs/hog/dice.py
+projs/hog/hog_gui.py
+projs/hog/tests/check_strategy.py
+projs/hog/tests/play_utils.py
