@@ -9,9 +9,15 @@ parsons/
 __init__.py
 construct_check.py
 
-projs/hog/calc.py
-projs/hog/default_graphics.py
-projs/hog/dice.py
-projs/hog/hog_gui.py
-projs/hog/tests/check_strategy.py
-projs/hog/tests/play_utils.py
+/projs/hog/*
+!/projs/hog/hog.py
+!/projs/hog/tests/
+/projs/hog/tests/__init__.py
+/projs/hog/tests/check_strategy.py
+/projs/hog/tests/play_utils.py
+
+/projs/cats/*
+!/projs/cats/cats.py
+!/projs/cats/tests/
+/projs/cats/tests/__init__.py
+/projs/cats/tests/abstraction_check.py
