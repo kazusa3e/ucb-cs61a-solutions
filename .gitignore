@@ -21,3 +21,5 @@ construct_check.py
 !/projs/cats/tests/
 /projs/cats/tests/__init__.py
 /projs/cats/tests/abstraction_check.py
+
+/labs/lab06/car.py
