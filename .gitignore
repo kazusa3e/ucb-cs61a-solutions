@@ -23,3 +23,8 @@ construct_check.py
 /projs/cats/tests/abstraction_check.py
 
 /labs/lab06/car.py
+
+/projs/ants/*
+!/projs/ants/ants.py
+!/projs/ants/tests/
+/projs/ants/tests/__init__.py
