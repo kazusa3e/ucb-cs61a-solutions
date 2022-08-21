@@ -36,3 +36,6 @@ construct_check.py
 
 editor/
 scheme
+
+/labs/lab11/pair.py
+/labs/lab11/scheme_tokens.py
