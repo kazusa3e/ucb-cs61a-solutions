@@ -39,3 +39,15 @@ scheme
 
 /labs/lab11/pair.py
 /labs/lab11/scheme_tokens.py
+
+!/projs/scheme/
+/projs/scheme/abstract_turtle/
+/projs/scheme/images/
+/projs/scheme/mytests.rst
+/projs/scheme/tests.scm
+/projs/scheme/pair.py
+/projs/scheme/scheme.py
+/projs/scheme/scheme_builtins.py
+/projs/scheme/scheme_reader
+/projs/scheme/scheme_tokens.py
+/projs/scheme/scheme_utils.py
