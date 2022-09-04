@@ -51,3 +51,5 @@ scheme
 /projs/scheme/scheme_reader
 /projs/scheme/scheme_tokens.py
 /projs/scheme/scheme_utils.py
+
+/labs/lab13/lab13.lark
