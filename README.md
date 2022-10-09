@@ -1,6 +1,7 @@
 # UCB CS61A
 
-> solutions for CS61A, 22sp, University of California.
+> solutions for CS61A, 22sp, University of California, Berkeley.
+> 
 > link: https://inst.eecs.berkeley.edu/~cs61a/sp22
 
 ## WARNING
